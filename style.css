@@ -1,5 +1,5 @@
 h1{
-color: red;
+color: blue;
 
 font-size: 20px;
 
@@ -7,7 +7,7 @@ font-size: 20px;
 
 body{
 
-background-color: aqua;
+background-color: rgb(145, 255, 0);
 font-size: 40px;
 
 }
